@@ -1,6 +1,6 @@
 # BASHRC
 ```shell
-nano ./.bashrc
+nano ~/.bashrc
 ```
 
 ```shell
