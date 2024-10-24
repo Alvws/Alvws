@@ -1,3 +1,4 @@
+[![An image of @lucasalvws's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasalvws)](https://holopin.io/@lucasalvws)
 <details>
   <summary>:brazil: Português</summary>
 
