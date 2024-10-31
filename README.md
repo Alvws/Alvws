@@ -1,4 +1,6 @@
 [![An image of @lucasalvws's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lucasalvws)](https://holopin.io/@lucasalvws)
+## LeetCode
+[![LeetCode user LucasAlvws](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FLucasAlvws&logo=leetcode&logoColor=yellow)](https://leetcode.com/LucasAlvws/)
 <details>
   <summary>:brazil: Português</summary>
 
